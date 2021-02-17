@@ -1,0 +1,42 @@
+[
+  {
+    "id": 4,
+    "name": "Zapatillas Deportivas",
+    "category": "Deportes",
+    "brand": "Nike",
+    "price": 14000.0,
+    "stock": 2,
+    "freeShipping": true,
+    "prestige": 5
+  },
+  {
+    "id": 2,
+    "name": "Taladro",
+    "category": "Herramientas",
+    "brand": "Black & Decker",
+    "price": 12500.0,
+    "stock": 7,
+    "freeShipping": false,
+    "prestige": 4
+  },
+  {
+    "id": 3,
+    "name": "Soldadora",
+    "category": "Herramientas",
+    "brand": "Black & Decker",
+    "price": 7215.0,
+    "stock": 3,
+    "freeShipping": true,
+    "prestige": 3
+  },
+  {
+    "id": 1,
+    "name": "Desmalezadora",
+    "category": "Herramientas",
+    "brand": "Makita",
+    "price": 9600.0,
+    "stock": 7,
+    "freeShipping": true,
+    "prestige": 4
+  }
+]

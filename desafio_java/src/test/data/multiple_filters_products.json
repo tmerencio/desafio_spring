@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Desmalezadora",
+    "category": "Herramientas",
+    "brand": "Makita",
+    "price": 9600.0,
+    "stock": 7,
+    "freeShipping": true,
+    "prestige": 4
+  },
+  {
+    "id": 3,
+    "name": "Soldadora",
+    "category": "Herramientas",
+    "brand": "Black & Decker",
+    "price": 7215.0,
+    "stock": 3,
+    "freeShipping": true,
+    "prestige": 3
+  }
+]

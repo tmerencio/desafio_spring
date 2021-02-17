@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Desmalezadora",
+    "category": "Herramientas",
+    "brand": "Makita",
+    "price": 9600.0,
+    "stock": 7,
+    "freeShipping": true,
+    "prestige": 4
+  },
+  {
+    "id": 2,
+    "name": "Taladro",
+    "category": "Herramientas",
+    "brand": "Black & Decker",
+    "price": 12500.0,
+    "stock": 7,
+    "freeShipping": true,
+    "prestige": 4
+  },
+  {
+    "id": 3,
+    "name": "Soldadora",
+    "category": "Herramientas",
+    "brand": "Black & Decker",
+    "price": 7215.0,
+    "stock": 3,
+    "freeShipping": true,
+    "prestige": 3
+  },
+  {
+    "id": 4,
+    "name": "Zapatillas Deportivas",
+    "category": "Deportes",
+    "brand": "Nike",
+    "price": 14000.0,
+    "stock": 2,
+    "freeShipping": true,
+    "prestige": 5
+  },
+  {
+    "id": 5,
+    "name": "Zapatillas Deportivas",
+    "category": "Deportes",
+    "brand": "Adidas",
+    "price": 13650.0,
+    "stock": 4,
+    "freeShipping": true,
+    "prestige": 5
+  },
+  {
+    "id": 6,
+    "name": "Camiseta",
+    "category": "Deportes",
+    "brand": "Topper",
+    "price": 2300.0,
+    "stock": 0,
+    "freeShipping": false,
+    "prestige": 3
+  },
+  {
+    "id": 7,
+    "name": "Redmi Note 9",
+    "category": "Celulares",
+    "brand": "Xiaomi",
+    "price": 40000.0,
+    "stock": 13,
+    "freeShipping": true,
+    "prestige": 4
+  },
+  {
+    "id": 8,
+    "name": "Smartwatch",
+    "category": "Celulares",
+    "brand": "Noga",
+    "price": 1900.0,
+    "stock": 18,
+    "freeShipping": false,
+    "prestige": 2
+  },
+  {
+    "id": 9,
+    "name": "Remera",
+    "category": "Indumentaria",
+    "brand": "Taverniti",
+    "price": 2300.0,
+    "stock": 0,
+    "freeShipping": false,
+    "prestige": 3
+  },
+  {
+    "id": 10,
+    "name": "Chomba",
+    "category": "Indumentaria",
+    "brand": "Taverniti",
+    "price": 2400.0,
+    "stock": 4,
+    "freeShipping": false,
+    "prestige": 3
+  },
+  {
+    "id": 11,
+    "name": "Medias",
+    "category": "Indumentaria",
+    "brand": "Mistral",
+    "price": 500.0,
+    "stock": 6,
+    "freeShipping": false,
+    "prestige": 1
+  },
+  {
+    "id": 12,
+    "name": "Short",
+    "category": "Indumentaria",
+    "brand": "Lacoste",
+    "price": 3900.0,
+    "stock": 7,
+    "freeShipping": true,
+    "prestige": 3
+  }
+]
